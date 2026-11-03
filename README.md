@@ -281,7 +281,7 @@ Bounties are **notional** — they credit the ledger, not real USDC. Real USDC o
 |-------|---------|------|
 | 1 | — | Observe → recall → think → act → learn skeleton, wallet tiers, SQLite memory |
 | 2 | — | GitHub read access, Twitter stubs |
-| 3 | — | Self-PR rights (`Daimon_Son`), Bluesky public voice |
+| 3 | — | Self-PR rights (`daimon`), Bluesky public voice |
 | 4 | — | Feedback loops: PR status, Stripe metrics, GA4, GSC, Bluesky read, predictions |
 | 4.8 | — | Full Bluesky engagement layer (like, repost, quote, follow, profile edit) |
 | 4.9 | — | Repo schema + write_repo_fact — architectural memory per repo |
@@ -348,7 +348,7 @@ daimon/
 Requires Python 3.11+ and a few API keys.
 
 ```bash
-git clone https://github.com/the-Indefatigable/Daimon_Son.git daimon
+git clone https://github.com/the-Indefatigable/daimon.git daimon
 cd daimon
 
 python3.11 -m venv .venv

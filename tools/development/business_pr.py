@@ -42,7 +42,7 @@ class GitHubBusinessPR(BaseTool):
     description = (
         "Propose a change to one of Mohammad's business repos by opening a pull "
         "request. You have write access ONLY to repos in the allowlist (currently "
-        "centsibles-frontend, centsibles-backend). Mohammad reviews and merges — "
+        "centsibles-web, centsibles-api). Mohammad reviews and merges — "
         "you cannot merge yourself. Use this to actually help the businesses: "
         "SEO fixes, landing-page copy, bug fixes, new features, meta tags. "
         "Every file you include: (path, new content). Max 20 files per PR, max "

@@ -29,7 +29,7 @@ class GitHubPRStatus(BaseTool):
     description = (
         "List your own open/merged/closed PRs across your repos. Use this to "
         "check: did Mohammad merge my PR? Was it closed? Is it still waiting? "
-        "Scans the Daimon_Son repo and all business repos you have access to. "
+        "Scans the daimon repo and all business repos you have access to. "
         "Only PRs on branches starting with 'daimon/' (i.e., yours)."
     )
     permission_level = PermissionLevel.AUTO

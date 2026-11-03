@@ -1,4 +1,4 @@
-"""DAIMON's self-modification tool. Opens PRs against its own repo (Daimon_Son)
+"""DAIMON's self-modification tool. Opens PRs against its own repo (daimon, formerly Daimon_Son)
 and only that repo. Never merges — Mohammad reviews and merges manually.
 
 This is how DAIMON evolves its own body."""
